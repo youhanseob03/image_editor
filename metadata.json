@@ -1,0 +1,6 @@
+{
+  "name": "이미지 스튜디오",
+  "description": "변경 전후 일관성 유지, 합성, 복원, 배경 제거, 여권 사진 제작, 피부 보정 등 전문가급 연출이 가능한 AI 기반 이미지 전처리 및 디자인 편집기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
